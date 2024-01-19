@@ -1,0 +1,13 @@
+items:
+  clan-information:
+    icon: PLAYER_HEAD
+    display-name: "Clan %clan%"
+    lore:
+      - ""
+      - "test"
+  clan-information-full:
+    icon: PLAYER_HEAD
+    display-name: "Clan %clan%"
+    lore:
+      - ""
+      - "test"

@@ -1,0 +1,14 @@
+main: cl_esmp.erneto1307.ClansLiteExpansionSMP
+version: 0.0.4
+name: ClansLite-ExpansionSMP
+author: erneto1307
+api-version: 1.20
+depend: [ClansLite]
+softdepend:
+  - PlaceholderAPI
+
+commands:
+  cl-exsmp:
+    description: Main command ClansLite-ExpansionSMP
+    aliases:
+      - cl-esmp

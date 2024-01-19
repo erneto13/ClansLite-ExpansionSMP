@@ -1,0 +1,9 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="ClansLite-ExpansionSMP:jar">
+    <output-path>$PROJECT_DIR$/../Desktop/Probando plugins/plugins</output-path>
+    <root id="archive" name="ClansLite-ExpansionSMP.jar">
+      <element id="module-output" name="ClansLite-ExpansionSMP" />
+      <element id="extracted-dir" path="$MAVEN_REPOSITORY$/com/github/Loving11ish/ClansLite/1.4.3/ClansLite-1.4.3.jar" path-in-jar="/" />
+    </root>
+  </artifact>
+</component>
